@@ -156,7 +156,7 @@ Click a topic name to open its folder.
     <td><code>try</code>, <code>catch</code>, <code>finally</code>, <code>throw</code>, <code>throws</code></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square" alt="upcoming"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Completed-2ea44f?style=flat-square" alt="Completed"/></td>
     <td><a href="./Multithreading"><b>Multithreading</b></a></td>
     <td>Threads, synchronization</td>
   </tr>
