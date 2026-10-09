@@ -157,7 +157,7 @@ Click a topic name to open its folder.
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square" alt="upcoming"/></td>
-    <td><a href="./15_Multithreading"><b>Multithreading</b></a></td>
+    <td><a href="./Multithreading"><b>Multithreading</b></a></td>
     <td>Threads, synchronization</td>
   </tr>
   <tr>
