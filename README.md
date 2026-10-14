@@ -91,7 +91,7 @@ Click a topic name to open its folder.
     <td>1D and 2D arrays</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Upcoming-lightgrey?style=flat-square" alt="upcoming"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Completed-2ea44f?style=flat-square" alt="Completed"/></td>
     <td><a href="./06_Strings"><b>Strings</b></a></td>
     <td>String, StringBuffer, StringBuilder</td>
   </tr>
